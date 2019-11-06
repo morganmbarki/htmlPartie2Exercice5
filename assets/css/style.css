@@ -1,5 +1,8 @@
-body{
-color:blue;
-background-color:white;
-background-image:url(img/planete.jpg);
+body {
+  background-image:url('../img/planete.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#unPtitNom {
+  color:#FFFFFF;
 }
